@@ -50,7 +50,7 @@ devtools::install_github('Gavin987/twmap')
 
 因為我有點懶，目前都是碰到問題才修改或新增，大概都還算堪用，有問題歡迎 pull request 或 email 給我，我會試著改正或新增功能。
 
-![原始範例圖](https://raw.githubusercontent.com/mutolisp/twmap/master/examples/twmap_distrmap.png)
+![原始範例圖](https://raw.githubusercontent.com/Gavin987/twmap/master/inst/examples/twmap_distrmap.png)
 
 ## 安裝
 
