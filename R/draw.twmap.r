@@ -89,7 +89,7 @@ draw.twmap <- function(theme, lwd, draw_river = TRUE, draw_grid_lines = TRUE) {
   }
   
   # --- C. Set Graphics Parameters (WGS84 Range) ---
-  graphics::par(oma = c(2, 2, 2, 3.5))
+  graphics::par(oma = c(2, 2, 2, 3))
   graphics::par(xpd = FALSE)
   base::print("Generating map(s), how about have a cup of coffee and take a rest?")
   
